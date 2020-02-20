@@ -1,2 +1,2 @@
 # autoGitbook
-为gitbook自藕丁构建README.md 和SUMMARY.md。
+为gitbook自动构建README.md 和SUMMARY.md。
