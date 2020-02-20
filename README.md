@@ -1,5 +1,5 @@
 # autoGitbook
-为gitbook自动构建README.md 和SUMMARY.md。
+本项目旨在为gitbook自动构建README.md 和SUMMARY.md。
 # 所需环境
 JDK1.8
 # 使用说明
